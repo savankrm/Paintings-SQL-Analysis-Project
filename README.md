@@ -157,10 +157,6 @@ LIMIT 5;
 
 
 ---
-
-### ✅ Part 11: **Future Improvements**
-
-```markdown
 ## 🧠 Future Improvements / Next Steps  
 - Add interactive visualizations using Python (Matplotlib/Seaborn) or Tableau  
 - Perform sentiment or thematic analysis on painting descriptions (if available)  
