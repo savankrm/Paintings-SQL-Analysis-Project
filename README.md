@@ -1,5 +1,9 @@
 # 🎨 Painting Database Analysis with SQL
 
+<p align="center">
+  <img src="Images/majnu%20paiting.jpg" alt="Title Image" width="429" height="222" />
+</p>
+
 ## 📖 Overview  
 This project focuses on analyzing a dataset of famous paintings using SQL. The goal is to extract meaningful insights about paintings, artists, museums, and other related data. By leveraging SQL queries, we aim to answer specific questions and uncover trends within the dataset.
 ## 🗂️ Dataset Description  
@@ -18,9 +22,13 @@ This project focuses on analyzing a dataset of famous paintings using SQL. The g
 - **Data Cleaning Performed**:  
   - Removed duplicate records  
   - Corrected misspelled entries (e.g., "Thusday" ➝ "Thursday")  
-  - Ensured referential integrity between tables  
+  - Ensured referential integrity between tables
+   
+##  ER Diagram
+<p align="center">
+  <img src="Images/Untitled.png" alt="Title Image" width="429" height="500" />
+</p>
 
-https://github.com/savankrm/Paintings-SQL-Analysis-Project/blob/main/Images/Untitled.png
 
 ## 🎯 Objectives  
 - **Key Questions**:  
