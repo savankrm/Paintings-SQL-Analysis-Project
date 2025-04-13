@@ -20,7 +20,7 @@ This project focuses on analyzing a dataset of famous paintings using SQL. The g
   - Corrected misspelled entries (e.g., "Thusday" ➝ "Thursday")  
   - Ensured referential integrity between tables  
 
-![ER Diagram](https://user-images.githubusercontent.com/your-image-link.png)
+https://github.com/savankrm/Paintings-SQL-Analysis-Project/blob/main/Images/Untitled.png
 
 ## 🎯 Objectives  
 - **Key Questions**:  
